@@ -1,0 +1,44 @@
+/* HEADER STYLES */
+.search-bar{
+    
+    background: white;
+    height: 40px;
+    border-radius: 10px;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    outline: none;
+}
+.search-bar input{
+    border: none;
+    outline: none;
+    width: 200px;
+    height:40px;
+}
+.search-btn{
+    color: red;
+}
+
+.profile-icon{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.profile-icon:hover{
+    color: white;
+}
+.itemz{
+    
+    font-size: 20px;
+    
+}
+.itemz a{
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+}

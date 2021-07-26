@@ -132,12 +132,15 @@
     padding: 20px;
     background-color: #ffecef;
 }
+.btn-grp{
+    margin-top: 20px;
+}
 .hat-btn{
-    background-color: #dc3545;
+    background-color: #212529;
     color: white;
-
+    
 }
 .hat-btn:hover{
-    background-color: #212529;
+    background-color: #dc3545;
     color: white;
 }

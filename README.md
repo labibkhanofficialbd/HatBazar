@@ -74,6 +74,6 @@ SOFTWARE.
 ## Concept
 <h3 align="center">
 
-<img src="https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/c0.7.526.275a/p526x296/174123276_135950051833522_4265940337589010019_n.png.jpg?_nc_cat=109&ccb=1-3&_nc_sid=e3f864&_nc_eui2=AeH_A3vAKjzhXim4jl9pYMpFqmH69pyIcu-qYfr2nIhy76YnzyN3-PVZzprgcLf1UJjRtahXqPianPYJnDopjyW7&_nc_ohc=pzOAx5OlxtkAX8p0DuK&_nc_ht=scontent.fdac27-1.fna&oh=485bf5ed488f94842182cd55686172a5&oe=612433A5" width="60%"/>
+<img src="https://scontent.fdac27-1.fna.fbcdn.net/v/t1.15752-9/220532563_1164176990715683_1653755824934625812_n.png?_nc_cat=110&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeF6ZI22G2IytkT8gTsk1kr3X8UKFfiZ6idfxQoV-JnqJ3DuKSzyJpqULLkRf7d-CV3s9IalNtUwcSi1gNjyiiFK&_nc_ohc=JP3912OltZUAX9j732L&_nc_ht=scontent.fdac27-1.fna&oh=8e8725b3fc8eff873a5252108b8303c3&oe=6124AD19" width="60%"/>
 
 </h3>

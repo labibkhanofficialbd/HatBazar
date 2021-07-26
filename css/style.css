@@ -1,6 +1,15 @@
 /* HEADER STYLES */
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: #ffecef;
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: #dc3545;
+}
 .search-bar{
-    
     background: white;
     height: 40px;
     border-radius: 10px;
@@ -29,6 +38,7 @@
     align-items: center;
     margin-left: 10px;
 }
+
 .profile-icon:hover ,.profile-icon:focus, .profile-icon:active{
     color: white;
 }
@@ -61,5 +71,26 @@
     
 }
 .menu-items a:hover{
+    color: white;
+}
+.hat-bg-info{
+    background-color: #ffecef;
+}
+.hero-m{
+    margin-top: 120px;
+}
+.slide-title{
+    color: #dc3545;
+}
+.buy-btn{
+    background-color: #dc3545;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    margin-top: 30px;
+}
+.buy-btn:hover{
+    background-color: #212529;
     color: white;
 }

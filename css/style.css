@@ -96,3 +96,48 @@
 }
 
 /* MAIN SECTION STYLES */
+.dimension {
+    width: 500px;
+    height: 300px;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #dc3545;
+    color: #fff;
+    
+}
+.nav-tabs{
+    border-bottom: 1px solid #dc3545;
+    margin-top: 50px;
+}
+.nav-tabs .nav-link {
+    background-color: #fff;
+    color: #dc3545;
+    border-bottom: 1px solid #dc3545;
+    margin-right: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.nav-tabs .nav-link:hover {
+    background-color: #dc3545;
+    color: white;
+}
+
+.tab-content {
+    
+    padding: 20px;
+}
+.card-img-w{
+    padding: 20px;
+    background-color: #ffecef;
+}
+.hat-btn{
+    background-color: #dc3545;
+    color: white;
+
+}
+.hat-btn:hover{
+    background-color: #212529;
+    color: white;
+}

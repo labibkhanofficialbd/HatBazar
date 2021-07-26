@@ -29,9 +29,10 @@
     align-items: center;
     margin-left: 10px;
 }
-.profile-icon:hover{
+.profile-icon:hover ,.profile-icon:focus, .profile-icon:active{
     color: white;
 }
+
 .itemz{
     
     font-size: 20px;
@@ -41,4 +42,24 @@
     text-decoration: none;
     padding: 30px;
     color: black;
+}
+.itemz .fas{
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.menu-items{
+    margin-top: 10px;
+    font-size: 20px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.menu-items:hover{
+    background-color: #dc3545;
+    
+}
+.menu-items a:hover{
+    color: white;
 }
